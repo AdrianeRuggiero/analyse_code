@@ -4,3 +4,5 @@ __pycache__
 flaskenv
 .coverage
 coverage.xml
+waterenv
+.vscode
